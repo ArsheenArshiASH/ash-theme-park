@@ -478,6 +478,7 @@ form textarea {
   font-size: 1.1rem;
   outline: 1px solid orange;
   outline-offset: 0.12rem;
+  background-color: aliceblue;
 }
 form button {
   padding: 0.7rem 3rem;
